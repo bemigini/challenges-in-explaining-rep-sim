@@ -1,0 +1,7 @@
+Installing challenge-ex environment:
+
+conda create -n challenge-ex python=3.11
+
+conda activate challenge-ex
+
+conda install matplotlib scikit-learn scipy
