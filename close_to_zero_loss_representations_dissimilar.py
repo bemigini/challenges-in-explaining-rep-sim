@@ -17,7 +17,7 @@ from sklearn.cross_decomposition import CCA
 
 
 # We consider 3 models which all have close to 0 loss, but where two of them 
-# are close to identifiable and the third are far from the others.
+# are close to identifiable and the third is far from the others.
 # Model 1, is the model called \theta' in the paper
 # Model 3, is the model called \theta* in the paper 
 
